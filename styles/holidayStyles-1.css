@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* Holiday CSS site Document */
+
+div{ margin-left: auto;
+	margin-right: auto;
+	width:1200px;
+	background: #FCFCFC;
+	}
+
+body {
+    background-color: #F35E71;
+
+}
+h1 {
+    color: darkgreen;
+    margin-left: 10px;
+    font-size: 45px;
+    text-align: center;
+}
+
+p {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    margin-left: 10px;
+    font-size: 18px;
+	}
+h2 {
+    margin-left: 10px;
+    color: red;
+    font-size: 36px;
+    text-align: center;
+}
+p {
+}
+#main {
+    background-color: #FFFFFF;
+    width: 900px;
+}
+#banner {
+    width: 1200px;
+}
+#footer {
+    background-color: #7BF4A3;
+    width: 900px;
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Christmas</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/holidayStyles-1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div id="banner">
+<img src="../images/chrustmasBanner.jpg" width="1200" height="200" alt=""/>
+	</div> <!--manner ends-->
+
+	
+	 
+	<div id="sideNav">content for side nav goes here</div>
+<div id="main">
+  
+	
+<h1>Holly Jolly Christmasssss</h1>
+ <h2>About my holiday</h2>	
+  
+  <p> Christmas is a time where people give gifts and celebrate with family. People decorate by hanging up lights and decorating a tree that they keep in their house. Children write letters for Santa saying what they want for Christmas. They leave cookies and milk for Santa who travels around the world in a sleigh pulled by reindeer. In one night Santa woud put gifts under the tree and stuff the stocking hanging on the mantal. In the morning the kids wake up and see what has gotten them for Christmas.   </p>
+  
+  <center><img src="../images/santa.jpg" width="215" height="299" alt=""/>
+    
+    <img src="../images/stockings.jpg" width="300" height="200" alt=""/></center>
+  
+  <h2>My favorite memories</h2>
+  
+  <p>my family always wakes up early around 10 am to open gifts. Its always a tradition that we open one gift at a time. Even my dog gets gifts. Later we go over to my grandparents house where the whole family gathers and we open more gifts. I remember when I was little we would put out cookies for santa to eat and they would be gone in the morning. We would leave Oreos for Santa and I would be so excited that they were gone in the morning. i have a lot of fond memories of christmas, but these are just a few.  </p>
+  
+  
+	<center><img src="../images/CinnamonRolls.jpg"></center>
+
+<div id="footer">content for footer goes here</div> <!--footer ends-->
+	
+	</div><!--main ends-->
+ 
+</body>
+</html>
